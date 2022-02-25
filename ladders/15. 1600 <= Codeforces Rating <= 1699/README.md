@@ -23,10 +23,10 @@
 |<ul><li>- [ ] Done</li></ul>|16|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|17|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|18|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|19|[Dreamoon and WiFi](http://codeforces.com/problemset/problem/476/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|20|[Ice Skating](http://codeforces.com/problemset/problem/217/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|21|[Learning Languages](http://codeforces.com/problemset/problem/277/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|22|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|19|[Dreamoon and WiFi](http://codeforces.com/problemset/problem/476/B)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|20|[Ice Skating](http://codeforces.com/problemset/problem/217/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|21|[Learning Languages](http://codeforces.com/problemset/problem/277/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|22|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|23|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|24|[Party](http://codeforces.com/problemset/problem/115/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|25|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
